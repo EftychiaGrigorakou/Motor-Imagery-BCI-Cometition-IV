@@ -25,6 +25,8 @@ Twenty-two Ag/AgCl electrodes (with inter-electrode distances of 3.5 cm) were us
 .. [1] Tangermann, M., Müller, K.R., Aertsen, A., Birbaumer, N., Braun, C., Brunner, C., Leeb, R., Mehring, C., Miller, K.J., Mueller-Putz, G. and Nolte, G., 2012. Review of the BCI competition IV. Frontiers in neuroscience, 6, p.55. """
 
 # Results
+To reproduce the results, use the main.ipnyb file.
+
  Among the 3 different classifiers tested, the one which outperformed the rest is the SVM classifier, with mean accuracy across subjects equal to 80.63%.
  
  ![image](https://user-images.githubusercontent.com/87859006/229521061-d8bf0efe-b98f-4bf8-9059-b4d495ecc533.png)
