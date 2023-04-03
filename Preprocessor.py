@@ -167,7 +167,7 @@ class Preprocessor:
 def get_raw(paradigm, dataset, subjects):
     """
         Loads data from moabb library
-        :return:
+        Returns:
             data_dict (dictionairy): keys: Subjects, containing the raw data. 
         """
     
