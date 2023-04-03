@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  1 17:19:25 2023
-
-@author: Dimitris
-"""
-
 
 import numpy as np
 import mne
