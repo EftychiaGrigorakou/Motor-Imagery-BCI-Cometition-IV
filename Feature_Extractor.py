@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  2 20:32:55 2023
-
-@author: Dimitris
-"""
 
 import numpy as np
 from pyriemann.tangentspace import TangentSpace
